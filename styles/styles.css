@@ -74,8 +74,9 @@ body {
 }
 
 .model-img {
-  height: 87vh;
-  width: 40vw;
+  height: 85.5vh;
+  width: 30vw;
+  margin: 0 0 0 150px;
 }
 
 .image-sec {
